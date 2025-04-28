@@ -16,7 +16,7 @@ NPRにおける特徴線の計算手法．
 
 ### [simpleQEM-simplification](https://github.com/kjj-kikuchi/simpleQEM-simplification)
 メッシュ簡略化手法．  
-<img src = "https://github.com/kjj-kikuchi/simpleQEM-simplification/blob/main/snapshot00.png" width = 20%><img src = "https://github.com/kjj-kikuchi/simpleQEM-simplification/blob/main/snapshot01.png" width = 20%>
+<img src = "https://github.com/kjj-kikuchi/simpleQEM-simplification/blob/main/snapshot00.png" width = 30%><img src = "https://github.com/kjj-kikuchi/simpleQEM-simplification/blob/main/snapshot01.png" width = 30%>
 
 ### [raycast](https://github.com/kjj-kikuchi/raycast)
 レイキャスティングによってメッシュをレンダリングし，ターミナルに描画する．  
@@ -36,4 +36,4 @@ Catmull-Clark細分割曲面を，制御メッシュから計算．
 
 ### [opengl-sample](https://github.com/kjj-kikuchi/opengl-sample)
 OpenGLを用いたメッシュビューワーの実装．  
-<img src = "https://github.com/kjj-kikuchi/opengl-sample/blob/main/image.png" width = 20%>
+<img src = "https://github.com/kjj-kikuchi/opengl-sample/blob/main/image.png" width = 30%>
