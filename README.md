@@ -12,27 +12,27 @@
 
 ### [SuggestiveContour](https://github.com/kjj-kikuchi/SuggestiveContour)
 NPRにおける特徴線の計算手法．  
-<img src = "https://github.com/kjj-kikuchi/SuggestiveContour/images/bunny_ls3loop.png" width = 20%><img src = "https://github.com/kjj-kikuchi/SuggestiveContour/images/bunny_ls3loop_c.png" width = 20%><img src = "https://github.com/kjj-kikuchi/SuggestiveContour/images/bunny_ls3loop_sc.png" width = 20%>
+<img src = "https://github.com/kjj-kikuchi/SuggestiveContour/blob/main/images/bunny_ls3loop.png" width = 20%><img src = "https://github.com/kjj-kikuchi/SuggestiveContour/blob/main/images/bunny_ls3loop_c.png" width = 20%><img src = "https://github.com/kjj-kikuchi/SuggestiveContour/blob/main/images/bunny_ls3loop_sc.png" width = 20%>
 
 ### [simpleQEM-simplification](https://github.com/kjj-kikuchi/simpleQEM-simplification)
 メッシュ簡略化手法．  
-<img src = "https://github.com/kjj-kikuchi/simpleQEM-simplification/snapshot00.png" width = 20%><img src = "https://github.com/kjj-kikuchi/simpleQEM-simplification/snapshot01.png" width = 20%>
+<img src = "https://github.com/kjj-kikuchi/simpleQEM-simplification/blob/main/snapshot00.png" width = 20%><img src = "https://github.com/kjj-kikuchi/simpleQEM-simplification/blob/main/snapshot01.png" width = 20%>
 
 ### [raycast](https://github.com/kjj-kikuchi/raycast)
 レイキャスティングによってメッシュをレンダリングし，ターミナルに描画する．  
-<img src = "https://github.com/kjj-kikuchi/raycast/image.png" width = 20%>
+<img src = "https://github.com/kjj-kikuchi/raycast/blob/main/image.png" width = 20%>
 
 ### [geodesic-distance](https://github.com/kjj-kikuchi/geodesic-distance)
 メッシュの測地距離の計算．  
-<img src = "https://github.com/kjj-kikuchi/geodesic-distance/kitten_geodesic1.png" width = 20%>
+<img src = "https://github.com/kjj-kikuchi/geodesic-distance/blob/main/kitten_geodesic1.png" width = 20%>
 
 ### [first-homology-group](https://github.com/kjj-kikuchi/first-homology-group)
 メッシュの2g（g=種数，穴の数）個の独立な非分離サイクルを計算．  
-<img src = "https://github.com/kjj-kikuchi/first-homology-group/fertility_nsc.png" width = 20%>
+<img src = "https://github.com/kjj-kikuchi/first-homology-group/blob/main/fertility_nsc.png" width = 20%>
 
 ### [Catmullclark](https://github.com/kjj-kikuchi/Catmullclark)
 Catmull-Clark細分割曲面を，制御メッシュから計算．  
-<img src = "https://github.com/kjj-kikuchi/Catmullclark/images/blub_control_mesh00.png" width = 2%><img src = "https://github.com/kjj-kikuchi/Catmullclark/images/blub_quadrangulated01.png" width = 20%><img src = "https://github.com/kjj-kikuchi/Catmullclark/images/blub_quadrangulated02.png" width = 20%><img src = "https://github.com/kjj-kikuchi/Catmullclark/images/blub_quadrangulated03.png" width = 20%>
+<img src = "https://github.com/kjj-kikuchi/Catmullclark/blob/main/images/blub_control_mesh00.png" width = 2%><img src = "https://github.com/kjj-kikuchi/Catmullclark/blob/main/images/blub_quadrangulated01.png" width = 20%><img src = "https://github.com/kjj-kikuchi/Catmullclark/blob/main/images/blub_quadrangulated02.png" width = 20%><img src = "https://github.com/kjj-kikuchi/Catmullclark/blob/main/images/blub_quadrangulated03.png" width = 20%>
 
 ### [opengl-sample](https://github.com/kjj-kikuchi/opengl-sample)
 OpenGLを用いたメッシュビューワーの実装．  
