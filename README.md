@@ -19,7 +19,7 @@ NPRにおける特徴線の計算手法．
 
 ### [メッシュをターミナル上にレンダリング](https://github.com/kjj-kikuchi/raycast)
 レイキャスティングによってメッシュをレンダリングし，ターミナルに描画する．  
-<img src = "https://github.com/kjj-kikuchi/raycast/blob/main/image.png" width = 20%>
+<img src = "https://github.com/kjj-kikuchi/raycast/blob/main/image.png" width = 30%>
 
 ### [geodesic distance](https://github.com/kjj-kikuchi/geodesic-distance)
 メッシュ上の測地距離の計算．  
@@ -34,5 +34,5 @@ Catmull–Clark細分割曲面を，制御メッシュから計算．
 <img src = "https://github.com/kjj-kikuchi/Catmullclark/blob/main/images/blub_control_mesh00.png" width = 20%><img src = "https://github.com/kjj-kikuchi/Catmullclark/blob/main/images/blub_quadrangulated01.png" width = 20%><img src = "https://github.com/kjj-kikuchi/Catmullclark/blob/main/images/blub_quadrangulated02.png" width = 20%><img src = "https://github.com/kjj-kikuchi/Catmullclark/blob/main/images/blub_quadrangulated03.png" width = 20%>
 
 ### [OpenGLを用いたメッシュビューワー](https://github.com/kjj-kikuchi/opengl-sample)
-OpenGLとGLFWを用いたメッシュビューワー．
+OpenGLとGLFWを用いたメッシュビューワー．  
 <img src = "https://github.com/kjj-kikuchi/opengl-sample/blob/main/image.png" width = 30%>
