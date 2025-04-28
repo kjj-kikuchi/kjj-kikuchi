@@ -22,7 +22,7 @@ NPRにおける特徴線の計算手法．
 レイキャスティングによってメッシュをレンダリングし，ターミナルに描画する，
 <img src = "https://github.com/kjj-kikuchi/raycast/image.png" width = 50%>
 
-### [c](https://github.com/kjj-kikuchi/geodesic-distance)
+### [geodesic-distance](https://github.com/kjj-kikuchi/geodesic-distance)
 メッシュの測地距離の計算．
 <img src = "https://github.com/kjj-kikuchi/geodesic-distance/kitten_geodesic1.png" width = 50%>
 
