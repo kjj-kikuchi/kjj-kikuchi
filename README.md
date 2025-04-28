@@ -32,7 +32,7 @@ NPRにおける特徴線の計算手法．
 
 ### [Catmullclark](https://github.com/kjj-kikuchi/Catmullclark)
 Catmull-Clark細分割曲面を，制御メッシュから計算．  
-<img src = "https://github.com/kjj-kikuchi/Catmullclark/blob/main/images/blub_control_mesh00.png" width = 2%><img src = "https://github.com/kjj-kikuchi/Catmullclark/blob/main/images/blub_quadrangulated01.png" width = 20%><img src = "https://github.com/kjj-kikuchi/Catmullclark/blob/main/images/blub_quadrangulated02.png" width = 20%><img src = "https://github.com/kjj-kikuchi/Catmullclark/blob/main/images/blub_quadrangulated03.png" width = 20%>
+<img src = "https://github.com/kjj-kikuchi/Catmullclark/blob/main/images/blub_control_mesh00.png" width = 20%><img src = "https://github.com/kjj-kikuchi/Catmullclark/blob/main/images/blub_quadrangulated01.png" width = 20%><img src = "https://github.com/kjj-kikuchi/Catmullclark/blob/main/images/blub_quadrangulated02.png" width = 20%><img src = "https://github.com/kjj-kikuchi/Catmullclark/blob/main/images/blub_quadrangulated03.png" width = 20%>
 
 ### [opengl-sample](https://github.com/kjj-kikuchi/opengl-sample)
 OpenGLを用いたメッシュビューワーの実装．  
