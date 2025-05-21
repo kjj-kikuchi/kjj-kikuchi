@@ -23,10 +23,9 @@ NPRにおける特徴線の計算手法．
 <img src = "https://github.com/kjj-kikuchi/simpleQEM-simplification/blob/main/snapshot00.png" width = 30%><img src = "https://github.com/kjj-kikuchi/simpleQEM-simplification/blob/main/snapshot01.png" width = 30%>
 
 ### [メッシュをターミナル上にレンダリング](https://github.com/kjj-kikuchi/raycast)
-レイキャスティングによってメッシュをレンダリングし，ターミナルに描画する．  
 <img src = "https://github.com/kjj-kikuchi/raycast/blob/main/image.png" width = 30%>
 
-### [geodesic distance](https://github.com/kjj-kikuchi/geodesic-distance)
+### [Geodesic distance](https://github.com/kjj-kikuchi/geodesic-distance)
 メッシュ上の測地距離の計算．  
 <img src = "https://github.com/kjj-kikuchi/geodesic-distance/blob/main/kitten_geodesic1.png" width = 20%>
 
@@ -35,9 +34,7 @@ NPRにおける特徴線の計算手法．
 <img src = "https://github.com/kjj-kikuchi/first-homology-group/blob/main/fertility_nsc.png" width = 20%>
 
 ### [Catmull–Clark subdivision surface](https://github.com/kjj-kikuchi/Catmullclark)
-Catmull–Clark細分割曲面を，制御メッシュから計算．  
 <img src = "https://github.com/kjj-kikuchi/Catmullclark/blob/main/images/blub_control_mesh00.png" width = 20%><img src = "https://github.com/kjj-kikuchi/Catmullclark/blob/main/images/blub_quadrangulated01.png" width = 20%><img src = "https://github.com/kjj-kikuchi/Catmullclark/blob/main/images/blub_quadrangulated02.png" width = 20%><img src = "https://github.com/kjj-kikuchi/Catmullclark/blob/main/images/blub_quadrangulated03.png" width = 20%>
 
-### [OpenGLを用いたメッシュビューワー](https://github.com/kjj-kikuchi/opengl-sample)
-OpenGLとGLFWを用いたメッシュビューワー．  
+### [OpenGLとGWLFを用いたメッシュビューワー](https://github.com/kjj-kikuchi/opengl-sample)
 <img src = "https://github.com/kjj-kikuchi/opengl-sample/blob/main/image.png" width = 30%>
