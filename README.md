@@ -17,7 +17,7 @@ NPRにおける特徴線の計算手法．
 <img src = "https://github.com/kjj-kikuchi/SuggestiveContour/blob/main/images/bunny_ls3loop.png" width = 20%><img src = "https://github.com/kjj-kikuchi/SuggestiveContour/blob/main/images/bunny_ls3loop_c.png" width = 20%><img src = "https://github.com/kjj-kikuchi/SuggestiveContour/blob/main/images/bunny_ls3loop_sc.png" width = 20%>
 
 ### [Conformalized MCF](https://github.com/kjj-kikuchi/cMCF)
-<img src = "https://github.com/kjj-kikuchi/cMCF/blob/main/armadilo.gif" width = 30%>
+<img src = "https://github.com/kjj-kikuchi/cMCF/blob/main/armadilo.gif" width = 40%>
 
 ### [QEMを使用したメッシュ簡略化法](https://github.com/kjj-kikuchi/simpleQEM-simplification) 
 <img src = "https://github.com/kjj-kikuchi/simpleQEM-simplification/blob/main/snapshot00.png" width = 30%><img src = "https://github.com/kjj-kikuchi/simpleQEM-simplification/blob/main/snapshot01.png" width = 30%>
